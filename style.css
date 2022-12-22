@@ -12,7 +12,8 @@
 .wrapper{
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
-  margin: 20px;
+  margin: 0 auto;
+  width: 50%;
   font-size: 14px;
   position:static;
   list-style-position:inside;
